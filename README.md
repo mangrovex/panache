@@ -6,7 +6,7 @@ Panache helps you to create beautiful [Material](http://material.io) themes for 
 
 Customize widgets colors and shapes, and download your `theme.dart` file.
 
-## :earth_americas: [Try Panache in your browser](https://rxlabz.github.io/panache)
+## :earth_americas: [Try Panache in your browser](https://mangrovex.github.io/panache)
 
 ![home](docs/assets/home.png)
 
