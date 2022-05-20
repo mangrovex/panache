@@ -1,6 +1,3 @@
----
-layout: redirected
-sitemap: false
-permalink: /
-redirect_to:  /panache_web/web/
----
+layout: page
+title: "PAGE TITLE"
+permalink: /panache_web/web
