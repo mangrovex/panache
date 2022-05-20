@@ -4,4 +4,3 @@ sitemap: false
 permalink: /
 redirect_to:  /panache_web/web/
 ---
-theme: jekyll-theme-cayman
